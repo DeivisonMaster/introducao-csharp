@@ -1,0 +1,7 @@
+E:\visualC\introducao-csharp\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe.config
+E:\visualC\introducao-csharp\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe
+E:\visualC\introducao-csharp\BoxingUnboxing\bin\Debug\BoxingUnboxing.pdb
+E:\visualC\introducao-csharp\BoxingUnboxing\obj\Debug\BoxingUnboxing.csprojAssemblyReference.cache
+E:\visualC\introducao-csharp\BoxingUnboxing\obj\Debug\BoxingUnboxing.csproj.CoreCompileInputs.cache
+E:\visualC\introducao-csharp\BoxingUnboxing\obj\Debug\BoxingUnboxing.exe
+E:\visualC\introducao-csharp\BoxingUnboxing\obj\Debug\BoxingUnboxing.pdb

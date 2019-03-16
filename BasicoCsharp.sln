@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variaveis", "Variaveis\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversoes", "Conversoes\Conversoes.csproj", "{2FE5A5C2-7AA9-42BE-8FFD-58AF67219BA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingUnboxing", "BoxingUnboxing\BoxingUnboxing.csproj", "{8C5605C3-1AE3-4CCD-A18D-EF463C2F8702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores", "Vetores\Vetores.csproj", "{22FA7763-2E2D-4889-9027-EF7F7EEC34A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{2FE5A5C2-7AA9-42BE-8FFD-58AF67219BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FE5A5C2-7AA9-42BE-8FFD-58AF67219BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FE5A5C2-7AA9-42BE-8FFD-58AF67219BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5605C3-1AE3-4CCD-A18D-EF463C2F8702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5605C3-1AE3-4CCD-A18D-EF463C2F8702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5605C3-1AE3-4CCD-A18D-EF463C2F8702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5605C3-1AE3-4CCD-A18D-EF463C2F8702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FA7763-2E2D-4889-9027-EF7F7EEC34A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FA7763-2E2D-4889-9027-EF7F7EEC34A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FA7763-2E2D-4889-9027-EF7F7EEC34A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FA7763-2E2D-4889-9027-EF7F7EEC34A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
