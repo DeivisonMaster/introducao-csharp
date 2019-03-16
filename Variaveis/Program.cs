@@ -19,7 +19,7 @@ namespace Variaveis
             // inicialização 
             a = 32;
 
-            // TIPOS PRIMITIVOS C#
+            /*************** TIPOS PRIMITIVOS C# **************/
 
             // Numéricos
             sbyte tSbyte = -128; // -128 a 127
@@ -40,7 +40,9 @@ namespace Variaveis
             char tChar = 'M';
             string tString = "Hello World";
 
-
+            // Lógicos
+            bool verdadeiro = true;
+            bool falso = false;
             
 
             Console.WriteLine(a);

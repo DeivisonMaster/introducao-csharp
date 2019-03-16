@@ -1,0 +1,7 @@
+E:\visualC\introducao-csharp\Conversoes\bin\Debug\Conversoes.exe.config
+E:\visualC\introducao-csharp\Conversoes\bin\Debug\Conversoes.exe
+E:\visualC\introducao-csharp\Conversoes\bin\Debug\Conversoes.pdb
+E:\visualC\introducao-csharp\Conversoes\obj\Debug\Conversoes.csprojAssemblyReference.cache
+E:\visualC\introducao-csharp\Conversoes\obj\Debug\Conversoes.csproj.CoreCompileInputs.cache
+E:\visualC\introducao-csharp\Conversoes\obj\Debug\Conversoes.exe
+E:\visualC\introducao-csharp\Conversoes\obj\Debug\Conversoes.pdb
