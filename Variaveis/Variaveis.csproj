@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AC39C9D0-3621-48BA-A617-50FDDF52116D}</ProjectGuid>
+    <ProjectGuid>{06477905-C72C-4BF6-BA6A-25AAC429E99D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CursoCsharp</RootNamespace>
-    <AssemblyName>CursoCsharp</AssemblyName>
+    <RootNamespace>Variaveis</RootNamespace>
+    <AssemblyName>Variaveis</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -49,6 +49,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

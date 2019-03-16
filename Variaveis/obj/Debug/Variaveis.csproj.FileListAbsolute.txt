@@ -1,0 +1,7 @@
+E:\visualC\introducao-csharp\Variaveis\bin\Debug\Variaveis.exe.config
+E:\visualC\introducao-csharp\Variaveis\bin\Debug\Variaveis.exe
+E:\visualC\introducao-csharp\Variaveis\bin\Debug\Variaveis.pdb
+E:\visualC\introducao-csharp\Variaveis\obj\Debug\Variaveis.csprojAssemblyReference.cache
+E:\visualC\introducao-csharp\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+E:\visualC\introducao-csharp\Variaveis\obj\Debug\Variaveis.exe
+E:\visualC\introducao-csharp\Variaveis\obj\Debug\Variaveis.pdb
