@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingUnboxing", "BoxingUnb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores", "Vetores\Vetores.csproj", "{22FA7763-2E2D-4889-9027-EF7F7EEC34A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{22116E5D-5C3A-4330-8B9F-E4A4B13D6312}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{22FA7763-2E2D-4889-9027-EF7F7EEC34A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22FA7763-2E2D-4889-9027-EF7F7EEC34A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22FA7763-2E2D-4889-9027-EF7F7EEC34A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22116E5D-5C3A-4330-8B9F-E4A4B13D6312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22116E5D-5C3A-4330-8B9F-E4A4B13D6312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22116E5D-5C3A-4330-8B9F-E4A4B13D6312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22116E5D-5C3A-4330-8B9F-E4A4B13D6312}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

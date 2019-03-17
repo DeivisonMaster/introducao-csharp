@@ -1,0 +1,6 @@
+E:\visualC\introducao-csharp\Strings\bin\Debug\Strings.exe.config
+E:\visualC\introducao-csharp\Strings\bin\Debug\Strings.exe
+E:\visualC\introducao-csharp\Strings\bin\Debug\Strings.pdb
+E:\visualC\introducao-csharp\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+E:\visualC\introducao-csharp\Strings\obj\Debug\Strings.exe
+E:\visualC\introducao-csharp\Strings\obj\Debug\Strings.pdb

@@ -4,3 +4,4 @@ E:\visualC\introducao-csharp\Vetores\bin\Debug\Vetores.pdb
 E:\visualC\introducao-csharp\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
 E:\visualC\introducao-csharp\Vetores\obj\Debug\Vetores.exe
 E:\visualC\introducao-csharp\Vetores\obj\Debug\Vetores.pdb
+E:\visualC\introducao-csharp\Vetores\obj\Debug\Vetores.csprojAssemblyReference.cache
