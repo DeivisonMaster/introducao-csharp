@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComandosIteracao", "ComandosIteracao\ComandosIteracao.csproj", "{25B87834-B363-49D5-9A20-56656A1A5C87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csproj", "{126263D1-D199-4910-96A2-F9BC3163FFA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{25B87834-B363-49D5-9A20-56656A1A5C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25B87834-B363-49D5-9A20-56656A1A5C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25B87834-B363-49D5-9A20-56656A1A5C87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126263D1-D199-4910-96A2-F9BC3163FFA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126263D1-D199-4910-96A2-F9BC3163FFA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126263D1-D199-4910-96A2-F9BC3163FFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126263D1-D199-4910-96A2-F9BC3163FFA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
