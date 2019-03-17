@@ -1,0 +1,7 @@
+E:\visualC\introducao-csharp\ComandosIteracao\bin\Debug\ComandosIteracao.exe.config
+E:\visualC\introducao-csharp\ComandosIteracao\bin\Debug\ComandosIteracao.exe
+E:\visualC\introducao-csharp\ComandosIteracao\bin\Debug\ComandosIteracao.pdb
+E:\visualC\introducao-csharp\ComandosIteracao\obj\Debug\ComandosIteracao.csprojAssemblyReference.cache
+E:\visualC\introducao-csharp\ComandosIteracao\obj\Debug\ComandosIteracao.csproj.CoreCompileInputs.cache
+E:\visualC\introducao-csharp\ComandosIteracao\obj\Debug\ComandosIteracao.exe
+E:\visualC\introducao-csharp\ComandosIteracao\obj\Debug\ComandosIteracao.pdb
