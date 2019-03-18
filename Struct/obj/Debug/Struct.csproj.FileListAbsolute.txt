@@ -1,0 +1,7 @@
+E:\visualC\introducao-csharp\Struct\bin\Debug\Struct.exe.config
+E:\visualC\introducao-csharp\Struct\bin\Debug\Struct.exe
+E:\visualC\introducao-csharp\Struct\bin\Debug\Struct.pdb
+E:\visualC\introducao-csharp\Struct\obj\Debug\Struct.csprojAssemblyReference.cache
+E:\visualC\introducao-csharp\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+E:\visualC\introducao-csharp\Struct\obj\Debug\Struct.exe
+E:\visualC\introducao-csharp\Struct\obj\Debug\Struct.pdb
