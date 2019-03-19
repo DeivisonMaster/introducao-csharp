@@ -1,0 +1,7 @@
+E:\visualC\introducao-csharp\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+E:\visualC\introducao-csharp\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+E:\visualC\introducao-csharp\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+E:\visualC\introducao-csharp\AnonymousTypes\obj\Debug\AnonymousTypes.csprojAssemblyReference.cache
+E:\visualC\introducao-csharp\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.CoreCompileInputs.cache
+E:\visualC\introducao-csharp\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+E:\visualC\introducao-csharp\AnonymousTypes\obj\Debug\AnonymousTypes.pdb
